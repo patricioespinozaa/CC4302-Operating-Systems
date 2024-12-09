@@ -1,0 +1,1 @@
+cmd_/home/pss/Win/SOS/Tareas/T7/cena-filosofos.mod := printf '%s\n'   kmutex.o cena-filosofos-impl.o | awk '!x[$$0]++ { print("/home/pss/Win/SOS/Tareas/T7/"$$0) }' > /home/pss/Win/SOS/Tareas/T7/cena-filosofos.mod

@@ -1,0 +1,1 @@
+cmd_/home/pss/Win/SOS/Tareas/T7/cena-filosofos.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o /home/pss/Win/SOS/Tareas/T7/cena-filosofos.o @/home/pss/Win/SOS/Tareas/T7/cena-filosofos.mod 
